@@ -2,6 +2,7 @@
 import json
 import os
 import os.path as osp
+sys.path.append('/userhome/cs/u3591560/')
 from collections import OrderedDict
 
 import numpy as np
