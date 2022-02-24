@@ -1,4 +1,4 @@
-#! /userhome/cs/u3591560/enter/bin/python
+#! /root/bin/python
 import json
 import os
 import os.path as osp
